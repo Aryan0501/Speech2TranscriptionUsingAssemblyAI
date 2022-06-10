@@ -4,7 +4,7 @@ from numpy import save
 import requests
 #from api_secrets import API_KEY_ASSEMBLYAI
 import sys
-API_KEY_ASSEMBLYAI="aa66fa6ed0a74afaa43c7723a47fd191"
+API_KEY_ASSEMBLYAI="ENTER YOUR API KEY FROM ASSEMBLYAI"
 #upload
 upload_endpoint='https://api.assemblyai.com/v2/upload'
 trans_endpoint = "https://api.assemblyai.com/v2/transcript"
